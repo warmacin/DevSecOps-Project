@@ -1,0 +1,12 @@
+{
+    "name": "netflix-clone",
+    "version": "1.0.0",
+    "description": "Simple Netflix Clone for DevSecOps Demo",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
